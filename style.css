@@ -1,0 +1,79 @@
+#container{
+    margin: 50px;
+}
+.icon:hover{
+    transform: scale(1.5);
+}
+.icon{
+    transform-origin: 15px 15px;
+    transition-duration: 0.5s;
+}
+#container{
+    position: relative;
+}
+svg{
+    position:absolute;
+}
+img{
+    position: absolute;
+}
+#A{
+    left: 242;
+    top: 512;
+}
+#B{
+    left: 174;
+    top: 472;
+}
+#C1{
+    left: 261;
+    top: 122;
+}
+#C2{
+    left: 261;
+    top: 185;
+}
+#D{
+    left: 320;
+    top: 155;
+}
+#E{
+    left: 395;
+    top: 90;
+}
+#F{
+    left: 473;
+    top: 142;
+}
+#G{
+    left: 413;
+    top: 197;
+}
+#H{
+    left: 413;
+    top: 283;
+}
+#I{
+    left: 413;
+    top: 350;
+}
+#J{
+    left: 477;
+    top: 253;
+}
+#K{
+    left: 483;
+    top: 356;
+}
+#L{
+    left: 649;
+    top: 100;
+}
+#M{
+    left: 572;
+    top: 101;
+}
+#N{
+    left: 649;
+    top: 255;
+}
